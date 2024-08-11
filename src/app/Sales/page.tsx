@@ -2,7 +2,9 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>Sales</div>
+    <div className='container_workplace-container_sales-page'>
+      Sales
+    </div>
   )
 }
 

@@ -2,7 +2,9 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>Help & support</div>
+    <div className='container_workplace-container_helpandsupport-page'>
+      Help & support
+    </div>
   )
 }
 
